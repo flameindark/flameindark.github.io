@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0aa1b7a9e4c6c5f094659d4831f14fcb.js"
+  "/precache-manifest.802adb05eb25a95ab321e5de94e600bc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "firebase-use"});
